@@ -11,3 +11,13 @@ html, body {
 #header h1 {
 	margin-top: 0px;
 }
+
+#nav ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#nav ul li {
+	dipslay: inline;
+}
