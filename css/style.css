@@ -19,5 +19,5 @@ html, body {
 }
 
 #nav ul li {
-	display: inline;
+	display: inline-block;
 }
