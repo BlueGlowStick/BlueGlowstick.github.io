@@ -8,17 +8,8 @@ html, body {
 	background-color: #bccce5;
 }
 
-#logo {
-	float: left;
-}
-
-#logo h1 {
+#header h1 {
 	margin-top: 0px;
-
-}
-
-#nav {
-	float: right;
 }
 
 #nav ul {
